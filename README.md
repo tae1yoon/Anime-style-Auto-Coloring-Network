@@ -29,7 +29,8 @@ Our main objective is to colorize a grayscale image from a given source image th
 * Tensorflow + tflearn
 
 ## Feature
-
+![feature.png](/Feature.png)
+For detail, please read [our final report](/Auto_Coloring_Network_Final_Report.pdf).
 
 ## Result
-
+![result.png](/Result.png)
