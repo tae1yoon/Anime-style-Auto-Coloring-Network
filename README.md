@@ -9,7 +9,9 @@ Our main objective is to colorize a grayscale image from a given source image th
 
 ## Enviroment & Dependency
 * Ubuntu 14.04
-* Nvidia GTX980
+* GeForce GTX980Ti with 6GB VRAM
+* Intel i5-3690k @4.2GHZ
+* 16GB main RAM
 * Cuda Toolkit 7.5 + cuDNN 5.0
 
 #### R lang
