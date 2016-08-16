@@ -11,13 +11,17 @@ Our main objective is to colorize a grayscale image from a given source image th
 * Ubuntu 14.04
 * Nvidia GTX980
 * Cuda
+
 #### R language
+
 * EBImage
 * stats
 * ggplot2
 * graphics
+
 #### C++
 * OpenCV3
+
 #### Python
 * OpenCV3
 * Tensorflow
