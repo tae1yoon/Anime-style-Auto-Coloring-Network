@@ -1,7 +1,7 @@
 # Anime-style-Auto-Coloring-Network
 
 This repository is of a semi-refined bundle for project of EC4209 Artificial Intelligence on 2016 Spring at GIST college, Korea.
-<b>This algorithm and system is not for commerical or research use, just for subject evaulation.</b>
+<b>This algorithm and system is not for commerical or research use, just for course project.</b>
 <i>(Actually, the performance and efficiency is not goot to that extend.)</i>
 
 ## Object
